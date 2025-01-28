@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14755362.svg)](https://doi.org/10.5281/zenodo.14755362)
+
 # Few Edges Are Enough: Few-Shot Network Attack Detection with Graph Neural Networks
 
 Code of the [FEAE paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_15) (IWSEC'24 best paper), showing the impact of integrating few-shot attack examples within the training of self-supervised detection models based on GNNs.
