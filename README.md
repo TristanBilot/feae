@@ -4,7 +4,7 @@ Code of [FEAE paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2
 
 ## Datasets
 
-Simply download `NF-CSE-CIC-IDS2018-v2` and `NF-UNSW-NB15-v2` files at this [URL](https://staff.itee.uq.edu.au/marius/NIDS_datasets/), into the root folder of the repo. Unzip the archive and move `NF-CSE-CIC-IDS2018-v2.csv` from data data folder to the root of the repo.
+Simply download `NF-CSE-CIC-IDS2018-v2` and `NF-UNSW-NB15-v2` files at this [URL](https://staff.itee.uq.edu.au/marius/NIDS_datasets/). Unzip the archives and move `NF-CSE-CIC-IDS2018-v2.csv` and `NF-UNSW-NB15-v2.csv` from the data folder to the root of the repo.
 
 ## Installation
 
