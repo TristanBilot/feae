@@ -1,0 +1,6 @@
+*.pyc
+GMI-master
+.vscode
+logs/
+*.csv
+*.zip
