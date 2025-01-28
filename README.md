@@ -1,6 +1,6 @@
 # Few Edges Are Enough: Few-Shot Network Attack Detection with Graph Neural Networks
 
-Code of [FEAE paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_15), showing the impact of integrating few-shot attack examples within the training of self-supervised detection models based on GNNs.
+Code of the [FEAE paper](https://link.springer.com/chapter/10.1007/978-981-97-7737-2_15) (IWSEC'24 best paper), showing the impact of integrating few-shot attack examples within the training of self-supervised detection models based on GNNs.
 
 ## Datasets
 
@@ -44,3 +44,7 @@ python line_graph_bench.py --encoder=[LineGCN | LineGAT | LineSAGE] --dataset=CS
 ```
 python egraphsage_supervised_bench.py
 ```
+
+## License
+
+See [license](LICENSE).
